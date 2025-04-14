@@ -1,5 +1,5 @@
 # My-Cybersecurity-Portfolio
-# Hello, I'm STEPHEN MBI
+<h1>Hi, I'm STEPHEN ! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 <a href="www.linkedin.com/in/stephen-mbi-170a851a8"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]

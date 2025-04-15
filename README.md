@@ -2,7 +2,8 @@
 <h1>Hi, I'm STEPHEN MBI! <br/>
   <a href="https://github.com/YOUR_GITHUB_USERNAME"> Environmental Specialist</a>, 
   <a href="https://www.linkedin.com/in/stephen-mbi-170a851a8">Cybersecurity Professional</a>, 
-  <a href="#">YouTuber</a> <!-- Placeholder for future YouTube link -->
+  <a href="https://www.youtube.com/channel/UCS7n9yCa4LzWQBl-lJlG_eA" target="_blank">YouTuber</a>
+
 </h1>
 
 <!-- LinkedIn Badge -->

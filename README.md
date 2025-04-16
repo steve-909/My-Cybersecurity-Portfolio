@@ -1,6 +1,6 @@
 # My-Cybersecurity-Portfolio
 <h1>Hi, I'm STEPHEN MBI! <br/>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"> Environmental Specialist</a>, 
+  <a href="https://github.com/steve-909"> Environmental Specialist</a>, 
   <a href="https://www.linkedin.com/in/stephen-mbi-170a851a8">Cybersecurity Professional</a>, 
   <a href="https://www.youtube.com/channel/UCS7n9yCa4LzWQBl-lJlG_eA" target="_blank">YouTuber</a>
 
@@ -12,7 +12,7 @@
 </a>
 
 <!-- GitHub Badge -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/steve-909">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
